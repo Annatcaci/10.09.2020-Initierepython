@@ -1,0 +1,6 @@
+print("Ana Tcaci")
+print("eleva clasei a 10-a D  -profil real")
+print("16 ani, nascuta la data de 02.09.2004")
+print("traiesc in Balti, Republica Moldova")
+print("invat in Institutia Pubica Liceul Teoretic Mihai Eminescu")
+print("Sunt pasionata de programare, arte, studierea biologiei si dansuri")
